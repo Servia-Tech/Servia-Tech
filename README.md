@@ -1,8 +1,11 @@
 ## Khaqan Shaheen
 
-Head of IT in Dubai. I run the whole technology function for a manufacturing group across six sites in five countries: one Odoo ERP, the infrastructure and security underneath it, and five AI systems that do real work in production rather than in pilots.
+Head of IT in Dubai. My speciality is moving a business from manual and spreadsheet operations to one ERP with AI doing the repetitive work. I run the whole technology function for a manufacturing group across six sites in five countries: one Odoo ERP, the infrastructure and security underneath it, and five AI systems that do real work in production rather than in pilots.
 
 - **Site and case studies:** https://servia-tech.github.io/khaqan-shaheen/
+- **Services and prices:** https://servia-tech.github.io/khaqan-shaheen/services.html
+- **Career advice, live sessions:** https://servia-tech.github.io/khaqan-shaheen/career-advice.html
+- **Writing:** https://servia-tech.github.io/khaqan-shaheen/writing/
 - **Press kit:** https://servia-tech.github.io/khaqan-shaheen/press.html
 - **LinkedIn:** https://www.linkedin.com/in/webshaheen
 
