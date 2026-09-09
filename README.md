@@ -18,3 +18,13 @@ Head of IT in Dubai. My speciality is moving a business from manual and spreadsh
 ### What I write about
 
 Running one ERP across a multi-country group, AI systems that survive daily operations, database migrations nobody notices, identity and access without an enterprise budget, and building the IT for a new factory from nothing. Ten case studies with the evidence behind each one are on the site.
+
+### Selected practical guides
+
+- [Why one ERP connects six sites in five countries](https://khaqanshaheen.com/articles/why-i-extended-one-erp-instead-of-buying-a-second-system.html)
+- [Supplier invoice OCR: validation, review and an interactive workload example](https://khaqanshaheen.com/tutorials/reading-supplier-bills-into-an-erp-with-an-llm-ocr-pipeline.html)
+- [Preventing machine-booking overlaps in Odoo](https://khaqanshaheen.com/tutorials/odoo-stop-two-work-orders-booking-the-same-machine.html)
+
+### Consulting and speaking
+
+Available for ERP and AI consulting, fractional IT leadership, and talks on manufacturing systems and accountable AI operations. Based in Dubai; open to senior opportunities in Australia and New Zealand. [Services and contact](https://khaqanshaheen.com/services.html) · [Speaker biography and press information](https://khaqanshaheen.com/press.html).
