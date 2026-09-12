@@ -1,30 +1,11 @@
-## Khaqan Shaheen
+# Khaqan Shaheen
 
-Head of IT in Dubai. My speciality is moving a business from manual and spreadsheet operations to one ERP with AI doing the repetitive work. I run the whole technology function for a manufacturing group across six sites in five countries: one Odoo ERP, the infrastructure and security underneath it, and five AI systems that do real work in production rather than in pilots.
+Head of IT for a plastics manufacturing group in the UAE (Aalmir / MIR Plastic Industries), based in Dubai.
 
-- **Site and case studies:** https://khaqanshaheen.com/
-- **Consulting services:** https://khaqanshaheen.com/services.html
-- **Career advice, live sessions:** https://khaqanshaheen.com/career-advice.html
-- **Writing:** https://khaqanshaheen.com/writing/
-- **Press kit:** https://khaqanshaheen.com/press.html
-- **LinkedIn:** https://www.linkedin.com/in/webshaheen
+I run one Odoo ERP and the infrastructure behind it across six sites in five countries, for around 150 users, with a team of six. Five AI systems that I designed run the business day to day: document OCR that reads supplier bills and expense claims into the ERP, automated document verification, a sales agent on WhatsApp and the group websites, a voice agent on the Grandstream telephony platform, and one chat platform across every brand. I took the live production database from PostgreSQL 9.5 to 16 with no unplanned downtime.
 
-### Open source
+Recognised by CXO DX with Excellence in CIO Leadership 2024, IT Leadership Excellence 2024, Technology Transformer of the Year 2023 and CIO of the Year 2023.
 
-| Project | What it does |
-|---|---|
-| [ai-visibility-audit](https://github.com/Servia-Tech/ai-visibility-audit) | Checks technical prerequisites for search and AI discovery, including crawler access and on-page signals. It does not predict rankings or guarantee AI citations. Five layers (SEO, AEO, GEO, AIO, SXO), every major AI crawler's robots rule, llms.txt validation. One Python file, no dependencies. |
-
-### What I write about
-
-Running one ERP across a multi-country group, AI systems that survive daily operations, database migrations nobody notices, identity and access without an enterprise budget, and building the IT for a new factory from nothing. Ten case studies with the evidence behind each one are on the site.
-
-### Selected practical guides
-
-- [Why one ERP connects six sites in five countries](https://khaqanshaheen.com/articles/why-i-extended-one-erp-instead-of-buying-a-second-system.html)
-- [Supplier invoice OCR: validation, review and an interactive workload example](https://khaqanshaheen.com/tutorials/reading-supplier-bills-into-an-erp-with-an-llm-ocr-pipeline.html)
-- [Preventing machine-booking overlaps in Odoo](https://khaqanshaheen.com/tutorials/odoo-stop-two-work-orders-booking-the-same-machine.html)
-
-### Consulting and speaking
-
-Available for ERP and AI consulting, fractional IT leadership, and talks on manufacturing systems and accountable AI operations. Based in Dubai; open to senior opportunities in Australia and New Zealand. [Services and contact](https://khaqanshaheen.com/services.html) · [Speaker biography and press information](https://khaqanshaheen.com/press.html).
+- Site: https://khaqanshaheen.com
+- LinkedIn: https://www.linkedin.com/in/webshaheen
+- Site source: https://github.com/Servia-Tech/khaqan-shaheen
