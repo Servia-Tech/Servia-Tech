@@ -9,3 +9,10 @@ Recognised by CXO DX with Excellence in CIO Leadership 2024, IT Leadership Excel
 - Site: https://khaqanshaheen.com
 - LinkedIn: https://www.linkedin.com/in/webshaheen
 - Site source: https://github.com/Servia-Tech/khaqan-shaheen
+
+## Practical guides and speaking
+
+- [Public speaker profile](https://sessionize.com/khaqan-shaheen/) — ERP, production AI and manufacturing IT topics.
+- [Factory IT readiness checklist](https://khaqanshaheen.com/work/bringing-a-new-factory-online.html) — opening-day acceptance gates and a downloadable worksheet.
+- [Odoo machine scheduling](https://khaqanshaheen.com/tutorials/odoo-stop-two-work-orders-booking-the-same-machine.html) — overlap prevention and worked examples.
+- [ERP consulting in Dubai](https://khaqanshaheen.com/odoo-erp-consultant-dubai.html) — health checks, implementation oversight and engagement preparation.
